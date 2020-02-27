@@ -9,8 +9,6 @@ import {GlobalProvider} from "./components/Context/GlobalState";
 
 function App() {
 
-
-
     return (
         <GlobalProvider>
             <Header/>
